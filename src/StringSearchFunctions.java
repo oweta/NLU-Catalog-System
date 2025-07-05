@@ -1,3 +1,4 @@
+package src;
 public class StringSearchFunctions {
     public static void main(String[] args) {
         String userQuery = "animal farm";

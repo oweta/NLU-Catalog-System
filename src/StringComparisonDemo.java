@@ -1,3 +1,4 @@
+package src;
 public class StringComparisonDemo {
     public static void main(String[] args) {
         String author1 = "Ainebyoona";
